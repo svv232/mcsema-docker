@@ -1,4 +1,4 @@
-The following is a Dockerfile for for McSema the executable lifter that translates executable binaries from native machine code to LLVM bitcode developed by Trail of Bits.
+The following is a Dockerfile for McSema the executable lifter that translates executable binaries from native machine code to LLVM bitcode developed by Trail of Bits.
 
 It currently builds ,and has a basic setup for both IDA and IDAPYTHON. The remaining parts of the installation are slightly touched up dependencies from the McSema README.
 
